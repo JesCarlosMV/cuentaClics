@@ -1,1 +1,5 @@
-Cada archivo tiene su explicacion
+#Cuenta Cliks basico 
+
+```
+Cuenta cliks con React
+```
